@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-RPG",
+  "version": "1.0.0",
+  "description": "Module 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolewallace09/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolewallace09/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/nicolewallace09/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
